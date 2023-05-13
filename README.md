@@ -4,7 +4,7 @@ Tenho conhecimento em testes nas frente Mobile, Web e Api.
 Atuo em times ágeis
 Participo das comunidades de teste.
 
-Meus canais:
+Meus linkedin:
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/wilson-santos-4b6276261/)
 
