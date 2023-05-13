@@ -1,5 +1,5 @@
-Eu sou Wilson Barboza Silva Santos QA Lead atualmente trabalhando na Valtech ,atuo na área faz 13 anos.
-Tenho conhecimento nas linguagens Java, Ruby.
+Eu sou Wilson Barboza Silva Santos QA Lead atualmente trabalhando na Valtech, atuo na área faz 13 anos.
+Tenho conhecimento nas linguagens para automação de testes Java, Ruby e Cypress.
 Tenho conhecimento em testes nas frente Mobile, Web e Api.
 Atuo em times ágeis
 Participo das comunidades de teste.
