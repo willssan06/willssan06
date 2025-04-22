@@ -1,10 +1,9 @@
-Eu sou Wilson Barboza Silva Santos Quality Assurance Engineer, atuo na área faz 14 anos.
-Tenho conhecimento nas linguagens para automação de testes Java, Ruby e Cypress.
-Tenho conhecimento em testes nas frente Mobile, Web e Api.
-Atuo em times ágeis
-Participo das comunidades de teste.
+Meu nome é Wilson Barboza Silva Santos e atuo como Quality Assurance Engineer há 15 anos.
+Tenho experiência com automação de testes utilizando as linguagens Java, Ruby, C# e Cypress.
+Possuo conhecimento em testes nas frentes Mobile, Web e API.
+Trabalho integrado a times ágeis e participo ativamente de comunidades de testes.
 
-Meus linkedin:
+Meu linkedin:
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/wilson-santos-4b6276261/)
 
